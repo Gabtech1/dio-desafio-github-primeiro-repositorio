@@ -7,10 +7,13 @@ Setar usuário: git config --global user.name "gabriel"
 Setar email: git config --global user.email gabriel711906@hotmail.com
 Listar configurações: git config --list
 Criar novo repositório: git init
-verificar estado dos arquivos: git status
-adicionar todos arquivos: git add .
-adicionar arquivo especifico: git add arquivo_nome.txt
-comitar  arquivo : git commit -m "mensagem..."
-enviar arquivos para remoto: git push origin main/master
-atualizar o local de acordo com o remoto: git pull
+Verificar estado dos arquivos: git status
+Adicionar todos arquivos: git add .
+Adicionar arquivo especifico: git add arquivo_nome.txt
+Comitar  arquivo : git commit -m "mensagem..."
+Enviar arquivos para remoto: git push origin main/master
+Atualizar o local de acordo com o remoto: git pull
 clonar um repositório remoto: git clone 
+Limpar: Ctrl+L
+Listar: ls
+Criar nova pasta: mkdir paste_name
